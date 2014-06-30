@@ -1,0 +1,1 @@
+/home/serge/sites/laravel/makeitsnappy/app/views/sessions/edit.blade.php
